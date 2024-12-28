@@ -2,7 +2,7 @@
   <tr style="border-collapse: collapse; border: none;">
     <td style="border-collapse: collapse; border: none;">
       <a href="http://www.openairinterface.org/">
-         <img src="./images/oai_final_logo.png" alt="" border=3 height=50 width=150>
+         <img src="https://github.com/user-attachments/assets/de3cd545-0592-485b-b0cc-b669cf89f769" alt="" border=3 height=50 width=150>
          </img>
       </a>
     </td>
@@ -14,7 +14,7 @@
 
 OAI 5G core network have different network functions which can be used invidiually or deployed all together in different combination on a production grade Kubernetes cluster like Openshift or a Vanilla Kubernetes cluster. 
 
-![Helm Chart Deployment](./images/helm-chart.png)
+![Helm Chart Deployment](https://github.com/user-attachments/assets/5a519175-abe1-43cc-ba5c-9ec3af4fc1da)
 
 
 **Reading time**: ~30 mins
